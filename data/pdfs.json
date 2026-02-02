@@ -1,0 +1,26 @@
+[
+  {
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "1",
+    "title": "Real Numbers",
+    "url": "https://raw.githubusercontent.com/makashish/class-pdf-store/main/pdfs/class10/maths/ch1_real_numbers.pdf"
+  },
+  {
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "2",
+    "title": "Polynomials",
+    "url": "https://raw.githubusercontent.com/makashish/class-pdf-store/main/pdfs/class10/maths/ch2_polynomials.pdf"
+  },
+  {
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "3",
+    "title": "Pair of Linear Equations",
+    "url": "https://raw.githubusercontent.com/makashish/class-pdf-store/main/pdfs/class10/maths/ch3_linear_equations.pdf"
+  }
+]
